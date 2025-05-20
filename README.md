@@ -18,12 +18,4 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 ## 📷 Preview
 
-![Preview da calculadora](./screenshot.png) <!-- Você pode tirar um print da calculadora funcionando e salvar com esse nome -->
-
----
-
-## 🚀 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/calculadora-com-javascript.git
+![Demonstração do Projeto](https://i.postimg.cc/SxH9gGxd/Captura-de-tela-2025-05-20-083533.png)
