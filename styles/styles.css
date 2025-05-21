@@ -39,9 +39,9 @@ main {
     border: none;
 }
 
-/*.calculadora button, #visor {
+.calculadora button, #visor {
     border: 4px solid rgb(255, 0, 0);
-}*/
+}
 
 .botoes-remover {
     position: absolute;
@@ -72,7 +72,7 @@ main {
 .operadores {
     width: 100px;
     position: absolute;
-    margin: 200px 0px 0px 265px;
+    margin: 200px 0px 0px 290px;
 }   
 
 .operadores button {
